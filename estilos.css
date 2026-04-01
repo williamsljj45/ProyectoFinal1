@@ -51,6 +51,7 @@ nav ul li{
 #content{
     float:left;
     width: 80%;
+    min-height: 500px;
     background: green;
 
 }
@@ -58,6 +59,7 @@ nav ul li{
 aside{
     float:left;
     width: 20%;
+    min-height: 500px;
     background: orange;
 }
 .article{
