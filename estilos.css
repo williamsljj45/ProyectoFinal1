@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
     background: lightgray;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,6 +21,10 @@ header{
     backgound: gray;
     heigh: 100px;
     widht: 100px;
+    margin: 0px; 
+    text-align: center;
+    line-height: 100px;
+    color: white;
 }
 
 .article{
