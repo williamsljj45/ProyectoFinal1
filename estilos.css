@@ -47,6 +47,19 @@ nav ul li{
 .clearfix{
     clear:both;
 }
+
+#content{
+    float:left;
+    width: 80%;
+    background: green;
+
+}
+
+aside{
+    float:left;
+    width: 20%;
+    background: orange;
+}
 .article{
 
 }
