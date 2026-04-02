@@ -59,11 +59,11 @@ nav ul li{
 
 #imagen{
     float:left;
-    width: 100%;
+    width: 1100px;
     min-height: 500px;
     background: rgb(124, 124, 124);
     padding: 40px;
-    
+
 }
 
 .article{
