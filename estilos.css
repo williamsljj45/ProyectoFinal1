@@ -17,7 +17,7 @@ body{
 }
 
 header{
-
+    font-family: 'Poppins', sans-serif;
     background: rgb(75, 75, 75);
     height: 50px;
     margin: 10px; 
