@@ -89,7 +89,7 @@ nav ul li{
 
 aside{
     float:left;
-    width: calc(20% - 20px);
+    width: calc(20% - 22px);
     background: rgb(247, 240, 240);
     min-height: 500px;
     padding-left: 10px;
