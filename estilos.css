@@ -10,7 +10,7 @@ body{
 
 #container{
 
-    width: 1100px;
+    width: 100%;
     margin: 0px auto;
     border: 1px solid black;
 
@@ -20,8 +20,6 @@ header{
 
     background: rgb(75, 75, 75);
     height: 100px;
-    width: 100%;
-    
     margin: 0px; 
     text-align: center;
     line-height: 100px;
