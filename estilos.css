@@ -18,18 +18,18 @@ body{
 
 header{
     font-family: 'Playfair Display', serif;
-    background: rgb(75, 75, 75);
+    background: rgb(247, 240, 240);
     height: 50px;
     margin: 0px; 
     text-align: left;
     line-height: 50px;
-    color: white;
+    color: rgb(0, 0, 0);
     padding-left: 10px;
     border-bottom: 3px solid black;
 }
 
 nav{
-    background: rgb(189, 189, 189);
+    background: rgb(247, 240, 240);
     height: 50px;
     border-bottom: 1px solid black;
     
@@ -52,7 +52,7 @@ nav ul li{
     float:left;
     width: calc(80% - 80px);
     min-height: 500px;
-    background: rgb(124, 124, 124);
+    background: rgb(247, 240, 240);
     padding: 40px;
 
 }
@@ -63,14 +63,14 @@ nav ul li{
     min-height: 500px;
     margin: 0px auto;
     border: 1px solid black;
-    background: rgb(124, 124, 124);
+    background: rgb(247, 240, 240);
     
     
 
 }
 
 .article{
-    color: white;
+    color: rgb(24, 24, 24);
     margin-top: 15px;
     margin-bottom: 15px;
     padding-bottom: 10px;
@@ -79,7 +79,7 @@ nav ul li{
 
 .article:first-child{
     padding-top: 10px;
-    border-top: 1px solid #eee;
+    border-top: 1px solid #000000;
 }
 
 .article h2{
