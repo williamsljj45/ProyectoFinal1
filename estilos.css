@@ -92,9 +92,9 @@ aside{
     width: calc(20% - 22px);
     background: rgb(247, 240, 240);
     min-height: 500px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 20px;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 19px;
     border: 1px solid black;
 }
 
