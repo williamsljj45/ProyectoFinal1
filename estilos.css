@@ -4,7 +4,7 @@
 }
 
 body{
-    background: rgb(211, 211, 211);
+    background: rgb(247, 240, 240);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -54,6 +54,7 @@ nav ul li{
     min-height: 500px;
     background: rgb(247, 240, 240);
     padding: 40px;
+    border: 1px solid black;
 
 }
 
@@ -74,7 +75,7 @@ nav ul li{
     margin-top: 15px;
     margin-bottom: 15px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #000000;
 }
 
 .article:first-child{
@@ -89,11 +90,12 @@ nav ul li{
 aside{
     float:left;
     width: calc(20% - 20px);
-    background: rgb(255, 255, 255);
+    background: rgb(247, 240, 240);
     min-height: 500px;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 20px;
+    border: 1px solid black;
 }
 
 footer{
