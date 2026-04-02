@@ -59,10 +59,11 @@ nav ul li{
 
 #imagen{
     
-    width: 500px;
-    min-height: 500px;
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
     background: rgb(124, 124, 124);
-    border-bottom: 1px solid black;
+    
     
 
 }
