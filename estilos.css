@@ -1,6 +1,7 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box; /* ESTA ES LA MAGIA */
 }
 
 body{
@@ -48,14 +49,13 @@ nav ul li{
     clear:both;
 }
 
-#content{
-    float:left;
-    width: calc(80% - 80px);
+#content {
+    float: left;
+    width: 80%; 
     min-height: 500px;
     background: rgb(247, 240, 240);
     padding: 40px;
     border: 1px solid black;
-
 }
 
 #imagen{
@@ -87,9 +87,9 @@ nav ul li{
     font-size: 25px;
 }
 
-aside{
-    float:left;
-    width: calc(20% - 20px);
+aside {
+    float: left;
+    width: 20%; 
     background: rgb(247, 240, 240);
     min-height: 500px;
     padding-left: 20px;
